@@ -1,0 +1,17 @@
+[
+    {
+      "id": "vehicle_1",
+      "capacity": 1000,
+      "current_latitude": 42.3601,
+      "current_longitude": -71.0589,
+      "waste_types": ["chemical", "medical"]
+    },
+    {
+      "id": "vehicle_2",
+      "capacity": 800,
+      "current_latitude": 42.3611,
+      "current_longitude": -71.0599,
+      "waste_types": ["industrial"]
+    }
+  ]
+  
