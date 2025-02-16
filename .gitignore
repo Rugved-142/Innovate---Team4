@@ -8,3 +8,5 @@ venv/
 
 # Output files
 *.html
+
+cache/

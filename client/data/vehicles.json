@@ -1,17 +1,24 @@
 [
     {
       "id": "vehicle_1",
-      "capacity": 1000,
+      "capacity": 5000,
       "current_latitude": 42.3601,
       "current_longitude": -71.0589,
-      "waste_types": ["chemical", "medical"]
+      "waste_types": ["chemical", "medical", "industrial", "hazardous"]
     },
     {
       "id": "vehicle_2",
-      "capacity": 800,
+      "capacity": 5000,
       "current_latitude": 42.3611,
       "current_longitude": -71.0599,
-      "waste_types": ["industrial"]
+      "waste_types": ["chemical", "medical", "industrial", "hazardous"]
+    },
+    {
+      "id": "vehicle_3",
+      "capacity": 5000,
+      "current_latitude": 42.3621,
+      "current_longitude": -71.0609,
+      "waste_types": ["chemical", "medical", "industrial", "hazardous"]
     }
   ]
   
