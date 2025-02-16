@@ -30,7 +30,7 @@ python3 -m venv venv
 
 # Activate the environment
 source venv/bin/activate   # For Mac/Linux
-# On Windows: venv\Scripts\activate
+venv\Scripts\activate      # On Windows
 ```
 ### 📦 Step 3: Install Dependencies
 ```bash
