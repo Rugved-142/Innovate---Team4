@@ -1,0 +1,23 @@
+[
+    {
+      "id": "request_1",
+      "latitude": 42.3621,
+      "longitude": -71.0609,
+      "waste_type": "chemical",
+      "priority": 3,
+      "request_time": "2024-02-15T12:30:00",
+      "estimated_volume": 1.5,
+      "address": "123 Main St, Boston, MA"
+    },
+    {
+      "id": "request_2",
+      "latitude": 42.3631,
+      "longitude": -71.0619,
+      "waste_type": "medical",
+      "priority": 2,
+      "request_time": "2024-02-15T13:45:00",
+      "estimated_volume": 2.0,
+      "address": "456 Elm St, Boston, MA"
+    }
+  ]
+  
