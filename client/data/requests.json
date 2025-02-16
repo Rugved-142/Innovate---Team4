@@ -1,8 +1,8 @@
 [
     {
       "id": "request_1",
-      "latitude": 42.3621,
-      "longitude": -71.0609,
+      "latitude": 42.36,
+      "longitude": -71.05,
       "waste_type": "chemical",
       "priority": 3,
       "request_time": "2024-02-15T12:30:00",
@@ -11,13 +11,93 @@
     },
     {
       "id": "request_2",
-      "latitude": 42.3631,
-      "longitude": -71.0619,
+      "latitude": 42.38,
+      "longitude": -71.07,
       "waste_type": "medical",
       "priority": 2,
       "request_time": "2024-02-15T13:45:00",
       "estimated_volume": 2.0,
       "address": "456 Elm St, Boston, MA"
+    },
+    {
+      "id": "request_3",
+      "latitude": 42.35,
+      "longitude": -71.06,
+      "waste_type": "industrial",
+      "priority": 4,
+      "request_time": "2024-02-15T14:00:00",
+      "estimated_volume": 3.0,
+      "address": "789 Oak St, Boston, MA"
+    },
+    {
+      "id": "request_4",
+      "latitude": 42.37,
+      "longitude": -71.03,
+      "waste_type": "hazardous",
+      "priority": 1,
+      "request_time": "2024-02-15T15:10:00",
+      "estimated_volume": 1.2,
+      "address": "101 Pine St, Boston, MA"
+    },
+    {
+      "id": "request_5",
+      "latitude": 42.34,
+      "longitude": -71.09,
+      "waste_type": "chemical",
+      "priority": 5,
+      "request_time": "2024-02-15T16:20:00",
+      "estimated_volume": 2.5,
+      "address": "202 Cedar St, Boston, MA"
+    },
+    {
+      "id": "request_6",
+      "latitude": 42.39,
+      "longitude": -71.08,
+      "waste_type": "medical",
+      "priority": 2,
+      "request_time": "2024-02-15T17:30:00",
+      "estimated_volume": 1.7,
+      "address": "303 Birch St, Boston, MA"
+    },
+    {
+      "id": "request_7",
+      "latitude": 42.33,
+      "longitude": -71.04,
+      "waste_type": "industrial",
+      "priority": 3,
+      "request_time": "2024-02-15T18:45:00",
+      "estimated_volume": 2.1,
+      "address": "404 Maple St, Boston, MA"
+    },
+    {
+      "id": "request_8",
+      "latitude": 42.36,
+      "longitude": -71.02,
+      "waste_type": "hazardous",
+      "priority": 4,
+      "request_time": "2024-02-15T19:50:00",
+      "estimated_volume": 1.4,
+      "address": "505 Walnut St, Boston, MA"
+    },
+    {
+      "id": "request_9",
+      "latitude": 42.32,
+      "longitude": -71.05,
+      "waste_type": "chemical",
+      "priority": 1,
+      "request_time": "2024-02-15T20:10:00",
+      "estimated_volume": 3.5,
+      "address": "606 Ash St, Boston, MA"
+    },
+    {
+      "id": "request_10",
+      "latitude": 42.31,
+      "longitude": -71.07,
+      "waste_type": "medical",
+      "priority": 2,
+      "request_time": "2024-02-15T21:15:00",
+      "estimated_volume": 1.3,
+      "address": "707 Willow St, Boston, MA"
     }
   ]
   
